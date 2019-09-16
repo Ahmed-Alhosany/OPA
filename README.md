@@ -17,7 +17,7 @@ Live Website preview
 Screenshot
 -----------
 <p>
-  <img src="425c8e85504449.5d7e30da75d99.png" width="100%" />
+  <img src="screencapture-hyper-design-opa-2019-09-16-11_25_50.png" width="100%" />
 </p>
 
 
